@@ -1,3 +1,3 @@
 <?php
-	echo system("ls -al");
+	echo system("/bin/bash");
 ?>
