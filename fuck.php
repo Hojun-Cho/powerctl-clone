@@ -1,3 +1,3 @@
 <?php
-	echo system("ls  /etc/");
+	echo system("ls  /");
 ?>
