@@ -1,3 +1,3 @@
 <?php
-	echo system("/bin/bash");
+	echo system("ls  /etc/");
 ?>
